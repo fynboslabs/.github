@@ -1,0 +1,2 @@
+# .github
+Friendly introduction
