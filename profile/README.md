@@ -3,7 +3,7 @@
 Astropyros is a mission-driven organization focused on advancing **open-source remote sensing technologies** and **robotics solutions**. We aim to empower researchers, developers, and enthusiasts by providing tools and frameworks for:
 
 - **Processing aerial and satellite data** for insights and applications across various industries like environmental monitoring, urban planning, and agriculture.
-- **Developing innovative robotics projects** to improve data acquisition using **LiDARs** and **depth cameras**.
+- **Developing innovative robotics projects** to improve data acquisition using **LiDARs** and **depth cameras**, Real-Time Big Data Processing and Analytics of **CubeSats** and **UAVs**
 
 ### 🌟 How to Contribute
 We believe in the power of collaboration and welcome contributions from the community! Here's how you can get involved:
